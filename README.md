@@ -1,4 +1,4 @@
 ### Hi There 👋
 
 ### GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfcstt&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfcstt&show_icons=true&theme=synthwave)

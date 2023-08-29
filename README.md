@@ -19,5 +19,5 @@
 
 <a href="https://www.linkedin.com/in/maria-fernanda-8442841b5/">
   
-![LinkedIn](https://img.shields.io/badge/linkedin-FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-FFB6C1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+

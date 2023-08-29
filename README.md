@@ -11,5 +11,5 @@
 </a>
 <a href="https://www.instagram.com/mfcstt">
 
-![Instagram](https://img.shields.io/badge/Instagram-mfcstt.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-ffffff.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 

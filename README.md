@@ -15,8 +15,9 @@
 <a href="https://www.instagram.com/mfcstt">
 
 ![Instagram](https://img.shields.io/badge/Instagram-FF69B4.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
+</a>
 
 <a href="https://www.linkedin.com/in/maria-fernanda-8442841b5/">
   
 ![LinkedIn](https://img.shields.io/badge/linkedin-FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>

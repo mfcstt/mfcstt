@@ -1,6 +1,6 @@
 
 
-### GitHub Stats 🎀 
+### GITHUB STATS 🖤
 
 
 <a href="https://github.com/mfcstt/github-readme-stats">

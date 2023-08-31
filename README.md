@@ -12,3 +12,8 @@
 ## Socials 🎀
 <a href="https://www.instagram.com/mfcstt">![Instagram](https://img.shields.io/badge/Instagram-FF69B4.svg?style=for-the-badge&logo=Instagram&logoColor=white)<a href="https://www.linkedin.com/in/maria-fernanda-8442841b5/">![LinkedIn](https://img.shields.io/badge/linkedin-FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+
+
+### Main skills: 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
+ ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;

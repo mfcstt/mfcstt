@@ -5,6 +5,15 @@
 
 Welcome to my GitHub! I am a student of Analysis and Systems Development. Here you will find projects that reflect my dedication to exploring technological solutions and improving my programming skills. Feel free to explore my repositories and follow along with my journey of learning and growth in the field.
 
+## Main skills: 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
+ ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+## Studying in this moment:
+ ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; 
+ ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
   
  <div align="center">   
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mfcstt&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Fernanda Rizzo github stats" />  
@@ -15,13 +24,6 @@ Welcome to my GitHub! I am a student of Analysis and Systems Development. Here y
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mfcstt&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Main skills: 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
- ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; 
- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 

@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 
-
-Welcome to my GitHub! I am a student of Analysis and Systems Development. Here you will find projects that reflect my dedication to exploring technological solutions and improving my programming skills. Feel free to explore my repositories and follow along with my journey of learning and growth in the field.
+ I'm a student of Analysis and Systems Development. Here you will find projects that reflect my dedication to exploring technological solutions and improving my programming skills. Feel free to explore my repositories and follow along with my journey of learning and growth in the field.
 
 
   

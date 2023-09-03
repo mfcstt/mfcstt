@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=50&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
+# Welcome to My Github!
 
 
  I'm a student of Analysis and Systems Development. Here you will find projects that reflect my dedication to exploring technological solutions and improving my programming skills. Feel free to explore my repositories and follow along with my journey of learning and growth in the field.
@@ -17,21 +16,11 @@
 
 
 
-
-##       Main skills: 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
 ##      Studying in this moment:
- ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; 
- ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+![skills](https://skillicons.dev/icons?i=html,css,js,python)
 
 
-## Socials:
-<div align="center">  
- <a href="https://instagram.com/mfcstt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
- <a href="https://www.linkedin.com/in/maria-fernanda-8442841b5 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "mahcosta54@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 
 

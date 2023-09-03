@@ -5,14 +5,12 @@
 
 
   
- <div align="center">   
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mfcstt&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Fernanda Rizzo github stats" />  
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfcstt&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> 
- </div>
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mfcstt&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/mfcstt/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=mfcstt&theme=dark&card_width=320" />
+</a>
+<a href="https://github.com/mfcstt/convoychat">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfcstt&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 
 

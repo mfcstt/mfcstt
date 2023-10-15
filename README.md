@@ -10,7 +10,7 @@
 
 
 
-##      Studying in this moment:
+#### Studying in this moment:
 ![skills](https://skillicons.dev/icons?i=html,css,js,python,java)
 
 

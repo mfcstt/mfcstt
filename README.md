@@ -11,9 +11,7 @@
 
 
 
- ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=400080)
-
-
+ 
 
 
 

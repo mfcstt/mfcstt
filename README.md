@@ -1,5 +1,5 @@
-
-Eu sou uma estudante de Análise e Desenvolvimento de Sistemas. Aqui você encontrará projetos que refletem minha dedicação em explorar soluções tecnológicas e aprimorar minhas habilidades de programação. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado e crescimento nessa área.
+## Estudante de Análise e Desenvolvimento de Sistemas.  :computer:
+Aqui você encontrará projetos que refletem minha dedicação em explorar soluções tecnológicas e aprimorar minhas habilidades de programação. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado e crescimento nessa área.
 
 
   

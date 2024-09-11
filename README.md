@@ -12,8 +12,11 @@
 
 <hr>
 
-[![card](https://github-readme-stats.vercel.app/api?username=mfcstt&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![mfcstt](https://github-readme-stats.vercel.app/api/top-langs/?username=mfcstt&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mfcstt/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mfcstt&theme=aura" />
+</a>
+  <a href="https://github.com/mfcstt/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfcstt&layout=compact&langs_count=8&card_width=320&theme=aura" /></a>
+
 
 
 

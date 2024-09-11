@@ -1,23 +1,8 @@
 ## Hi there, I'm Maria Fernanda!
 
-### About me:
-
-🌍 Based in Brazil.<br/>
-🎓 Currently studying Analysis and Systems Development at FATEC.<br/>
-🐨 Intern at Koala Parts.<br/>
-💻 Passionate about Artificial Intelligence, Machine Learning, and Data Engineering/Analysis.<br/>
-  
-### Professional interests:
-
-✨ Fascinated by the world of Artificial Intelligence and its potential to transform companies.<br/>
-🤖 Enthusiastic about learning and applying Machine Learning algorithms in real-world scenarios. <br/>
-🎲 Data Engineering and Analysis, with a focus on deriving insights from large datasets to drive decision-making. .<br/>
-
-### What I'm up to:
-
-📖 Constantly expanding my knowledge in AI, ML, and data science.<br/>
-🔄 Developing projects that blend data analysis with machine learning to solve complex problems.<br/>
-🤝 Looking to collaborate on innovative projects.<br/>
+- Currently studying Analysis and Systems Development at @[FATEC](https://www.fatecbpaulista.edu.br).<br/>
+- Intern at @[Koala Parts](https://www.koalaparts.com.br) 🐨.<br/>
+- IA ✨ | Machine Learning 🤖| Data Engineering and Analysis 🎲| Software Engineering 📄
 
 ### Get in touch:
 
@@ -27,6 +12,8 @@
 
 <hr>
 
+[![card](https://github-readme-stats.vercel.app/api?username=mfcstt&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mfcstt](https://github-readme-stats.vercel.app/api/top-langs/?username=mfcstt&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

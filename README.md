@@ -1,20 +1,21 @@
-## Heyy, I'm Maria Fernanda 👋
+## Oii, eu sou a Maria Fernanda 👋🩷
 
-- Currently studying Analysis and Systems Development at @[FATEC](https://www.fatecbpaulista.edu.br)<br/>
-- E-commerce Assistant at @[Koala Parts](https://www.koalaparts.com.br) 🐨<br/>
-- Exploring the world of AI ✨ | Learning React ⚛️ | Web Development Vibes 💻
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas
+- ♻️ Analista de Automação Jr. na [LAR Plásticos](https://www.larplasticos.com.br)
+- Explorando o mundo da IA ✨ e Desenvolvimento de Software
 
-### Get in touch:
+### Entre em contato:
 
-💬 Let's connect for collabs, networking or just a tech talk!<br/>
-📧 Email me at mahcosta54@gmail.com<br/>
-🔗 [LinkedIn profile](https://linkedin.com/in/mfcstt)<br/>
+💬 Vamos conversar sobre tecnologia, projetos ou networking!<br/>
+📧 Email: mfcstt.dev@gmail.com<br/>
+🔗 [LinkedIn](https://linkedin.com/in/mfcstt)<br/>
 
-<hr>
+##
 
 <a href="https://github.com/mfcstt/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mfcstt&theme=dark&show_icons=true&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mfcstt&theme=cobalt&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/mfcstt/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfcstt&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfcstt&layout=compact&langs_count=8&theme=cobalt&hide_border=true" />
 </a>
+
